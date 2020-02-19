@@ -29,7 +29,7 @@ def selection_sort(arr):
 # if the left hand side is less than right hand side.
 # holding n cards in the hand.
 # the largest item is bubbled to the end of the array. We have to repeat the process
-#
+
 def bubble_sort( array ):
     for i in range(len(array)-1,0,-1):
         for j in range(i):
